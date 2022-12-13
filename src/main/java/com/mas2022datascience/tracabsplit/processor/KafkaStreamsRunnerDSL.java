@@ -1,4 +1,4 @@
-package com.mas2022datascience.springtracabsplit.processor;
+package com.mas2022datascience.tracabsplit.processor;
 
 import com.mas2022datascience.avro.v1.Frame;
 import com.mas2022datascience.avro.v1.Object;

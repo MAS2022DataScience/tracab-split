@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mas2022datascience</groupId>
-	<artifactId>spring-tracab-split</artifactId>
+	<artifactId>tracab-split</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-tracab-split</name>
+	<name>tracab-split</name>
 	<description>Tracab worker (stream processing)</description>
 	<properties>
 		<java.version>17</java.version>
