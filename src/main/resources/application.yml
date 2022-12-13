@@ -14,7 +14,7 @@ topic:
 
 spring:
   application:
-    name: "spring-tracab-split"
+    name: "tracab-split"
 
   kafka:
     bootstrap.servers:
